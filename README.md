@@ -34,7 +34,6 @@ Figma
 
 ## CODE:
 ```
-```
 page 1
 
 div class="container--0-">
@@ -88,7 +87,7 @@ page 3
   <div class="text-0-1-3">FOR CONTECT AS</div>
   <div class="text-0-1-4">CHIKOO@GMAIL.COM</div>
 </div>
-
+```
 
 ## OUTPUT:
 ![alt text](<Screenshot 2024-12-18 202942.png>)
